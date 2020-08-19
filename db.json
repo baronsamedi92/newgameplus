@@ -1,12 +1,11 @@
 {
   "posts": [
     {
-      "id": 0,
-      "title": "AMID EVIL"
-    },
-        {
-      "id": 0,
-      "title": "AMID EVIL"
+      "id": 1,
+      "title": "hello"
     }
   ],
+  "profile": {
+    "name": "jochen"
+  }
 }
